@@ -50,7 +50,7 @@ The analysis focuses on:
 
 ## Sample Visualizations
 <img width="1302" height="875" alt="Customers" src="https://github.com/user-attachments/assets/3e5ce4e5-46d3-43ba-9b41-0ae07011a09f" />
-<img width="1607" height="913" alt="Outliers" src="https://github.com/user-attachments/assets/94e92c71-50e9-450c-8e9a-7f3b71583115" />
+<img width="1072" height="818" alt="Quantity" src="https://github.com/user-attachments/assets/12c8ed09-5813-429e-a524-130174669be4" />
 <img width="1417" height="991" alt="Revenue" src="https://github.com/user-attachments/assets/831f6b28-3112-4b2a-b62b-d3fb869a5885" />
 <img width="1607" height="913" alt="Outliers" src="https://github.com/user-attachments/assets/39b35f02-9ed8-4017-86c2-ddab5e2a1583" />
 
